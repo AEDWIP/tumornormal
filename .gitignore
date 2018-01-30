@@ -8,3 +8,6 @@
 .cache
 data
 models
+stanfordC1Week2
+tf_logs
+
